@@ -1,0 +1,13 @@
+canvas{
+	border: 1px solid red;
+	float: left;
+	margin-right: 10px;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+div.info{
+	float: left;
+}
